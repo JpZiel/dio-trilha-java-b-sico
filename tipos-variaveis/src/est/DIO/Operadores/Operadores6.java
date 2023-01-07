@@ -1,3 +1,5 @@
+package est.DIO.Operadores;
+
 public class Operadores6 {
     public static void main(String[] args) {
         boolean condicao1 = true;

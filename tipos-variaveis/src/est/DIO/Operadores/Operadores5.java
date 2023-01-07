@@ -1,3 +1,5 @@
+package est.DIO.Operadores;
+
 public class Operadores5 {
     public static void main(String[] args) {
         String nomeUm = "João Pedro";

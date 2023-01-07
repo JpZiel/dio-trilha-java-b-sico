@@ -1,3 +1,5 @@
+package est.DIO.Operadores;
+
 public class Operadores4 {
     public static void main(String[] args) {
         // classe Operadores.java
